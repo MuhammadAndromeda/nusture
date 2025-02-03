@@ -50,8 +50,8 @@ function sulawesi(){
     pulau.textContent = '📍 SULAWESI ISLAND';
     info.textContent = 'Jawa adalah salah satu pulau yang terletak di Indonesia dan merupakan pulau terluas ke-13 di dunia. Jumlah penduduk di Pulau Jawa sekitar 150 juta. Pulau Jawa dihuni oleh 60% total populasi Indonesia.'
     budaya.textContent = 'Sulawesi, pulau berbentuk K ini, kaya akan keberagaman suku seperti Bugis, Makassar, Toraja, dan Minahasa, masing-masing dengan adat dan tradisi unik, mulai dari rumah adat Tongkonan hingga upacara Rambu Solo.';
-    suku1.src = '/bahan/bajutoraja.jpg';
-    suku2.src = '/bahan/rumahtoraja.png';
+    suku1.src = 'bahan/bajutoraja.jpg';
+    suku2.src = 'bahan/rumahtoraja.png';
 };
 
 function papua(){
