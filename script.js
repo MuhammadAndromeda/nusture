@@ -48,7 +48,7 @@ function sulawesi(){
     const suku2 = document.getElementById('suku2');
 
     pulau.textContent = '📍 SULAWESI ISLAND';
-    info.textContent = 'Jawa adalah salah satu pulau yang terletak di Indonesia dan merupakan pulau terluas ke-13 di dunia. Jumlah penduduk di Pulau Jawa sekitar 150 juta. Pulau Jawa dihuni oleh 60% total populasi Indonesia.'
+    info.textContent = 'Sulawesi adalah salah satu dari empat Kepulauan Sunda Besar dan merupakan pulau terbesar kesebelas di dunia. Pulau Sulawesi terletak di sebelah timur Pulau Kalimantan, sebelah barat Kepulauan Maluku, dan sebelah selatan Mindanao dan Kepulauan Sulu, Filipina.'
     budaya.textContent = 'Sulawesi, pulau berbentuk K ini, kaya akan keberagaman suku seperti Bugis, Makassar, Toraja, dan Minahasa, masing-masing dengan adat dan tradisi unik, mulai dari rumah adat Tongkonan hingga upacara Rambu Solo.';
     suku1.src = 'bahan/bajutoraja.jpg';
     suku2.src = 'bahan/rumahtoraja.png';
